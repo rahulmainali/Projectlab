@@ -1,5 +1,5 @@
 # Write a python program to convert seconds to day, hour, minutes.
-
+#Changes
 sec=int(input("Enter the second you want to convert into day, hour, minutes"))
 day=sec/(60*60*24)
 hour=sec/(60*60)
